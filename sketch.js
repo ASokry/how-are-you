@@ -25,7 +25,7 @@ function setup() {
   cnv = createCanvas(windowWidth, windowHeight);
   centerCanvas();
   cnv.parent('sketch-holder');
-  music.setVolume(0.1);
+  music.setVolume(0.5);
   fft = new p5.FFT(0.9,numOfBands);
 
   background(207,255,229);
