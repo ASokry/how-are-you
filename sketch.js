@@ -26,7 +26,7 @@ function centerCanvas() {
 
 function preload() {
   music = loadSound("https://asokry.github.io/myP5Summer/music/hello_how_are_you.mp3", loaded);
-  bg = loadImage("Color Ripples.jpg");
+  bg = loadImage("https://asokry.github.io/myP5Summer/img/peace_tree.jpg");
 }
 
 function setup() {
