@@ -67,9 +67,9 @@ function draw() {
   music.setVolume(myVolume,1);
   background(230,235,229);
   push();
-  fill(255);
+  fill(255,150);
   strokeWeight(5);
-  stroke(0);
+  stroke(0,150);
   rect(0, rectY, width, rectHeight);
   pop();
 
