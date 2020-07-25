@@ -94,6 +94,11 @@ function draw() {
     dots[i].update();
     dots[i].draw();
   }
+
+  textSize(30);
+  textAlign(CENTER, BOTTOM);
+  stroke(0);
+  text("Press any Key when a dot is on the line.",width/2,rectY);
 }
 
 function play(){
