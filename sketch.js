@@ -32,7 +32,7 @@ function centerCanvas() {
 }
 
 function preload() {
-  music = loadSound("https://asokry.github.io/myP5Summer/music/hello_how_are_you.mp3", loaded);
+  music = loadSound("https://asokry.github.io/how-are-you/music/hello_how_are_you.mp3", loaded);
 }
 
 function setup() {
