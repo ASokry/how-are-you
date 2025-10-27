@@ -4,7 +4,7 @@ var fft;
 var gui;
 var buttonName = "PLAY / PAUSE";
 var Play = false;
-var myVolume = 0.5;
+var myVolume = 0.3;
 var myVolumeMin = 0;
 var myVolumeMax = 1;
 var myVolumeStep = 0.1;
